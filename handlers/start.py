@@ -24,13 +24,13 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/CheemsBotChat"
+                        "💬 Group", url="https://t.me/CrackMonkeyChats"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/CheemsUserbot"
+                        "Channel 🔈", url="https://t.me/CrackMonkey"
                     ),
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/CheemsUserbot" )
+                        "Support", url="https://t.me/CrackMonkey" )
                 ],
                 [
                     InlineKeyboardButton(
