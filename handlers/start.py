@@ -11,7 +11,9 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am  Music Bot, an open-source bot that lets you play music in your Telegram groups voice chat.
+**I am Venom Music Bot, an efficient and a perfect bot that lets you play music in your Telegram groups voice chat.**
+
+__**Use the buttons below to know more about me**__
 
 
 Use the buttons below to know more about me.""",
@@ -19,7 +21,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ COMMANDS", url="https://telegra.ph/tgvc8robot-vctgassistant8-04-27"
+                        "⚒ COMMANDS", url="https://telegra.ph/MUSIC-BOT-05-06"
                     )
                 ],
                 [
@@ -34,7 +36,7 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add Me", url="http://t.me/musicvc10bot?startgroup=true"
+                        "Add Me", url="http://t.me/VenomMusicBot?startgroup=true"
                     )
                 ]
             ]
